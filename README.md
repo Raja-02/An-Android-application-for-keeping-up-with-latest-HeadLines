@@ -25,7 +25,7 @@ It's and android app built with kotlin. Our app is a user-friendly news applicat
 
 
 ## News-Whiz App Demo Video
-[![Link to](https://img.shields.io/badge/Demo%20Video-%20Here-blue.svg)](https://drive.google.com/file/d/1C-wuCdiFnyUyi5S1l9NxOsJu05KQ9I9e/view?usp=sharing)
+[![Link to](https://drive.google.com/file/d/1hmFPi4-dftlii0Ak4CC8OuBDg6pxaCw3/view?usp=drive_link)
 
 
 ## Download
